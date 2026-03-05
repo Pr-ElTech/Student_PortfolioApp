@@ -1,7 +1,7 @@
 main {
   width: 100%;
-  height: 10vh;
-  background-color: orange;
+  height: 5vh;
+  background-color: #f9fafd;
   display: flex;
   justify-self: center;
   align-items: center;
